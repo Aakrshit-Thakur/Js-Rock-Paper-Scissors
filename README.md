@@ -3,4 +3,4 @@ In this project, I've combined my passion for programming with a classic childho
 <br>
 I have just used Js to create this project and the output of Js file is the output of my project.
 <br>
-I hope you all liked my basic project.
+I hope you liked my basic project.
